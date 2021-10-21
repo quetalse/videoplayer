@@ -263,7 +263,6 @@ section.playlist::-webkit-scrollbar-thumb {
 }
 
 .playlist .video-list .playlist-item{
-    height: 50px;
     margin: 2px 0;
 
     padding: 4px 8px;
@@ -283,6 +282,7 @@ section.playlist::-webkit-scrollbar-thumb {
 
     height: 6vw;
     max-height: 50px;
+    min-height: 44px;
 }
 
 .playlist .video-list .playlist-item:not(:first-child){

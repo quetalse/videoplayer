@@ -12,8 +12,13 @@
         width: 100%;
       }
 
-      .playlist .video-list .playlist-item .play{
-        left: 7%
+
+      .playlist .video-list .playlist-item {
+        min-height: 50px;
+
+        .play {
+          left: 7%
+        }
       }
       //.playlist{
       //  width: 100%;
