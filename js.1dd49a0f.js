@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Rgmk":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("../styles/main.scss"),console.log("test");
 },{"../styles/main.scss":"LDUH"}]},{},["Rgmk"], null)
-//# sourceMappingURL=/js.1dd49a0f.js.map
+//# sourceMappingURL=js.1dd49a0f.js.map
